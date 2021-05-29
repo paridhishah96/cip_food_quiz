@@ -1,0 +1,82 @@
+quiz = {
+    1: {
+        "question": "What is the most expensive spice in the world, in terms of weight?:",
+        "answer": "Saffron"
+    },
+    2: {
+        "question": "Which country the largest producer of Maple Syrup?",
+        "answer": "Canada"
+    },
+    3: {
+        "question": "Which country do Tacos originate from?",
+        "answer": "Mexico"
+    },
+    4: {
+        "question": "Where does Hawaiian Pizza originate from",
+        "answer": "Canada"
+    },
+    5: {
+        "question": "What is the one seasoning without which cooking is almost impossible?",
+        "answer": "Salt"
+    },
+    6: {
+        "question": "What was the first food eaten in Space?",
+        "answer": "Apple Sauce"
+    },
+    7: {
+        "question": "Which japanese beef is thought to be the best in the world?",
+        "answer": "Wagyu"
+    },
+    8: {
+        "question": "Which country does Banh Mi originate from?",
+        "answer": "Indonesia"
+    },
+    9: {
+        "question": "Chicken Tikka Masala is the national dish of?",
+        "answer": "England"
+    },
+    10: {
+        "question": "Which vegetable has 96% water?",
+        "answer": "Cucumber"
+    },
+    11: {
+        "question": "Which is the coffee chain with most outlets worldwide?",
+        "answer": "Starbucks"
+    },
+    12: {
+        "question": "What was the first vegetable ever planted in space?",
+        "answer": "Potato"
+    },
+    13: {
+        "question": "What is the phobia/fear of cooking called?",
+        "answer": "Mageirocophobia"
+    },
+    14: {
+        "question": "Which country consumes the highest amount of Instant Ramen?",
+        "answer": "China"
+    },
+    15: {
+        "question": "What is the world's smelliest fruit?",
+        "answer": "Durian"
+    },
+    16: {
+        "question": "Which country hosts an annual tomato fest each year?",
+        "answer": "Spain"
+    },
+    17: {
+        "question": "Where did Coca Cola oriniate from (Country)?",
+        "answer": "USA"
+    },
+    18: {
+        "question": "Which type of cocktail is generally served in a Copper Mug?",
+        "answer": "Moscow Mule"
+    },
+    19: {
+        "question": "Which is the hottest chilli in the world?",
+        "answer": "Ghost Pepper"
+    },
+    20: {
+        "question": "Which is the most consumed beverage in the world?",
+        "answer": "Water"
+    }
+}
